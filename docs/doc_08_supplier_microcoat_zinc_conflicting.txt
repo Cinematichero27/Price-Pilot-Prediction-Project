@@ -1,0 +1,16 @@
+MICROCOAT ZINC & GALVANIZING WORKS - INDUSTRIAL COATINGS
+SURFACE TREATMENT RATE CIRCULAR & COMMERCIAL AMENDMENT
+Document Ref: MC-TC-2026-09
+Date: 2026-09-25
+Status: CONFLICTING GUIDELINES NOTED IN RECENT AUDIT
+Customer: Apex Precision Fasteners & Hardware Pvt. Ltd.
+
+NOTICE CLAUSE 3 (Formal Tariff Circular, Sept 25, 2026):
+"Effective immediately, all yellow zinc dichromate electroplating for Grade 8.8 / 10.9 fasteners will incur a mandatory small-lot chemical surcharge of ₹1.40/kg for order batches below 500 kg total gross weight."
+
+CONTRADICTING EMAIL MEMORANDUM (Accounts Desk, Oct 02, 2026):
+"Regarding Apex Order Ref #PO-8821: MicroCoat management has agreed to waive the small-lot chemical surcharge on all galvanized spring washers and hex flange bolts if the invoice value exceeds ₹40,000, irrespective of weight."
+
+PRICING COPILOT SYSTEM WARNING:
+Evidence Conflict Detected: The formal published circular indicates ₹1.40/kg small-lot surcharge applies below 500 kg, whereas the email communication indicates a waiver for order amounts > ₹40,000. 
+Recommendation: Apply conservative cost basis or verify lot size with logistics coordinator before final quotation approval.
