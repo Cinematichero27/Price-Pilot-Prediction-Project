@@ -1,0 +1,25 @@
+APEX PRECISION FASTENERS & HARDWARE PVT. LTD.
+INTERNAL SALES DEBRIEF & COMPETITIVE LOSS ANALYSIS
+Subject: Win/Loss Debrief - Deccan Fabrication Works (Customer ID: CUST-003)
+Document Ref: NOTE-2026-09-DFW
+Date: 2026-09-12
+Author: V. Sharma (Senior Regional Sales Manager)
+Classification: Internal Sales Intelligence Only
+
+EXECUTIVE SUMMARY:
+In August 2026, we lost a key tender for 1,000 pieces of Heavy Hex Flange Nut Grade 10 (M16, SKU: HFN-M16-10) to a regional distributor representing Sundaram Fasteners.
+Our Quote: ₹36.80 per unit (24.0% margin applied per standard Silver tier policy).
+Winning Competitor Quote: ₹34.20 per unit (7.6% lower).
+
+PURCHASE HEAD FEEDBACK:
+During a follow-up meeting with Mr. S. Rao (VP Procurement, Deccan Fabrication Works):
+1. Deccan highly values our in-house metallurgical testing lab and NABL-accredited test certificates, which the competitor could not supply without third-party delay.
+2. Mr. Rao explicitly stated that if our price is within ₹34.80 to ₹35.40 per unit for batch sizes of 500 units or greater, Deccan will award 100% of their Q4 requirement to Apex.
+3. Our unit cost on HFN-M16-10 is ₹29.50. 
+   - A price of ₹34.90 yields a 15.5% gross margin (well above our mandatory 9.0% floor of ₹32.16).
+   - Standard Silver tier margin is 22%, which makes us uncompetitive for this client.
+
+RECOMMENDATION FOR COPILOT & SALES REPS:
+For any forthcoming quotation for Deccan Fabrication Works on HFN-M16-10 or related heavy fasteners:
+- Cap target margin between 15.0% and 17.0% rather than 22.0% Silver default.
+- Mention NABL Material Test Certificate inclusion in the quote terms to reinforce quality differentiation.

@@ -1,0 +1,38 @@
+APEX PRECISION FASTENERS & HARDWARE PVT. LTD.
+INTERNAL POLICY DOCUMENT: CORPORATE PRICING & MARGIN POLICY - Q4 FY2026
+Document ID: POL-2026-Q4-01
+Classification: Confidential - Internal Sales Only
+Effective Date: 2026-10-01 to 2026-12-31
+Author: Finance & Commercial Operations Committee
+
+1. OBJECTIVE & SCOPE
+This policy establishes mandatory pricing boundaries, margin thresholds, volume discount tiers, and customer tier guidelines for all standard and engineered fasteners produced and distributed by Apex Precision Fasteners.
+
+2. DETERMINISTIC PRICING CONSTRAINTS (MANDATORY)
+2.1 Price Floor (Loss Prevention Constraint):
+Under no circumstances may any sales personnel, quotation copilot, or manager issue a quotation below the Direct Unit Cost + 9.0% mandatory floor margin. 
+The Price Floor is calculated as:
+  Price Floor = Direct Unit Cost * 1.09
+Any request below this floor is mathematically blocked unless an explicit override with Managing Director authorization is logged.
+
+2.2 Standard Customer Tier Margins:
+Baseline target gross margins prior to volume discounts:
+  - Platinum Tier: 14.0% to 16.0% target margin (Net-45 credit terms)
+  - Gold Tier:     18.0% to 20.0% target margin (Net-30 credit terms)
+  - Silver Tier:   22.0% to 24.0% target margin (Net-15 credit terms)
+  - Bronze Tier:   26.0% to 28.0% target margin (Advance / 7-day payment)
+
+2.3 Volume Discount Schedule:
+Standard volume discounts applicable across all product categories:
+  - Tier 1 (1 to 99 units):      0.0% discount
+  - Tier 2 (100 to 499 units):   3.5% discount off standard list price
+  - Tier 3 (500 to 999 units):   6.0% discount off standard list price
+  - Tier 4 (1,000 to 4,999 units): 9.0% discount off standard list price
+  - Tier 5 (5,000+ units):       12.0% discount off standard list price
+
+2.4 Inventory and Lead Time Rules:
+- If current stock level is less than requested order quantity, an expedited production/procurement fee of 2.5% to 3.5% may be applied if customer requests delivery within 10 days.
+- If inventory exceeds 200% of reorder level (excess stock), sales representatives are authorized to offer an additional 2.0% clearance incentive to liquidate inventory.
+
+3. HUMAN-IN-THE-LOOP APPROVAL PROTOCOL
+All automated copilot recommendations must be reviewed by the assigned Sales Executive. Any manual price deviation exceeding 3% from the copilot's recommended price requires an audit explanation note.
